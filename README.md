@@ -30,6 +30,10 @@ Create an instance of `Permuter` with its only initializer (no arguments)
 Setup code:
 
 ```
+// overall: 🟨⬛🟩🟨⬛
+// I: ⬛⬛🟨🟨⬛
+// T: 🟨⬛⬛⬛⬛
+// R: ⬛⬛🟩⬛⬛
 let permuter = Permuter()
 permuter.addYellow(letter: "I", at: 2)
 permuter.addYellow(letter: "I", at: 3)
