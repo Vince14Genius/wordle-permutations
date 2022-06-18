@@ -3,7 +3,7 @@ For tryharding Wordle without cheating | Swift PlaygroundBook
 
 ## Usage
 
-> Note: Swift Playgrounds is required to run this PlaygroundBook
+> **Important:** Swift Playgrounds is required to run this PlaygroundBook
 
 ### Initial Setup
 
