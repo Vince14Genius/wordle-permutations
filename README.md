@@ -1,6 +1,8 @@
 # wordle-permutations
 For tryharding Wordle without cheating | Swift PlaygroundBook
 
+I used to brute-force all possible combinations by hand when both *enough green/yellow letters are uncovered* and *I still have no idea what's going on*. Then I decided to write some code to automate this process.
+
 ## Usage
 
 > **Important:** [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) is required to run this PlaygroundBook
